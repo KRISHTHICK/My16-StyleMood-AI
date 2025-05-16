@@ -1,0 +1,17 @@
+[
+  {
+    "mood": "Casual",
+    "colors": ["#f5f5dc", "#a9a9a9", "#deb887"],
+    "suggestions": "Perfect for a casual hangout or cafe visit. Pair with sneakers."
+  },
+  {
+    "mood": "Formal",
+    "colors": ["#000000", "#2f4f4f", "#708090"],
+    "suggestions": "Great for business meetings or formal dinners. Add a blazer or heels."
+  },
+  {
+    "mood": "Sporty",
+    "colors": ["#ff4500", "#32cd32", "#4682b4"],
+    "suggestions": "Best for gym, workouts or jog. Wear running shoes or sports watch."
+  }
+]
